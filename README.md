@@ -1,6 +1,6 @@
-# 趣三碎 is a responsive jekyll theme
+# yidiudiu.github.io is a responsive jekyll theme
 
-趣三碎 is a responsive jekyll theme which created to be simple and freedom.
+yidiudiu.github.io is a responsive jekyll theme which created to be simple and freedom.
 
 ## Demo
 
