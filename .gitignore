@@ -1,0 +1,12 @@
+#忽略的文件及文件夹
+/target/*
+.idea
+*.iml
+_site
+.sass-cache
+.jekyll-metadata
+node_modules/
+yarn.lock
+#rebel.xml
+#不忽略的文件
+!.gitignore
