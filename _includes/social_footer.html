@@ -11,9 +11,9 @@
   <li><a href="#" target="_blank"><i class="fa fa-wechat" aria-hidden="true"></i></a></li>
   {% endif %}
   {% if site.zhihu_url %}
-  <li><a href="{{ site.zhihu_url }}" target="_blank"><i class="fa fa-stack-1x" aria-hidden="true">知</i></a></li>
+  <li><a href="{{ site.zhihu_url }}" target="_blank"><i class="fa" aria-hidden="true">知</i></a></li>
   {% else %}
-  <li><a href="#" target="_blank"><i class="fa fa-stack-1x" aria-hidden="true"></i></a></li>
+  <li><a href="#" target="_blank"><i class="fa" aria-hidden="true"></i></a></li>
   {% endif %}
   {% if site.email_url %}
   <li><a href="{{ site.email_url }}" target="_blank"><i class="fa fa-send" aria-hidden="true"></i></a></li>
@@ -24,5 +24,15 @@
   <li><a href="{{ site.github_url }}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
   {% else %}
   <li><a href="#" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+  {% endif %}
+  {% if site.github_url %}
+  <li><a href="{{ site.github_url }}" target="_blank"><i class="fa fa-github-square" aria-hidden="true"></i></a></li>
+  {% else %}
+  <li><a href="#" target="_blank"><i class="fa fa-github-square" aria-hidden="true"></i></a></li>
+  {% endif %}
+  {% if site.github_url %}
+  <li><a href="{{ site.github_url }}" target="_blank"><i class="fa fa-github-alt" aria-hidden="true"></i></a></li>
+  {% else %}
+  <li><a href="#" target="_blank"><i class="fa fa-github-alt" aria-hidden="true"></i></a></li>
   {% endif %}
 </ul>
