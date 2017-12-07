@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "占星随笔，从金星到月亮，体会成长"
-img: himalayan.jpg # Add image post (optional)
-date: 2017-12-07 15:55:00 +0300
+img: 20171107.jpg # Add image post (optional)
+date: 2017-11-07 15:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [占星, 星座]
 ---
 学占星的路上摸爬滚打好多年
 
 以前太刻意的理解每个星座宫位甚至相位的含义，于是拿身边人练手看盘的时候难免出现断章取义、理解片面的时候。
+
 岁月真的是好东西，你越经历，领悟和灵性都在成长。以前很多看不懂的都在逐渐明朗。
 
 就好比我们天天张口闭口谈的星座是太阳星座，固然重要，那毕竟是意志是想成为的想奋斗的追求，其它所有的行星我打比方会认为是围绕太阳转动，为你的太阳星座服务。
