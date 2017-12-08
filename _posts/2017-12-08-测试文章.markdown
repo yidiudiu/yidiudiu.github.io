@@ -2,7 +2,7 @@
 layout: post
 title: "测试文章"
 img: 20171110.jpg # Add image post (optional)
-date: 2017-2-08 17:14:00 +0300
+date: 2017-12-08 17:14:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [测试]
 ---
