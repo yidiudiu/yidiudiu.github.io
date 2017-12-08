@@ -8,11 +8,11 @@ Check the theme in action [Demo](https://yidiudiu.github.io/)
 
 The main page would look like this:
 
-![Main page preview](https://github.com/yidiudiu/blob/master/assets/img/bef_main_page.jpg?raw=true)
+![Main page preview](https://github.com/yidiudiu/yidiudiu.github.io/blob/master/assets/img/main_page.jpg?raw=true)
 
 The post page would look like this:
 
-![Post page preview](https://github.com/yidiudiu/blob/master/assets/img/bef_post.jpg?raw=true)
+![Post page preview](https://github.com/yidiudiu/yidiudiu.github.io/blob/master/assets/img/post.jpg?raw=true)
 
 ## Features
 
