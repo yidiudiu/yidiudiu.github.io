@@ -4466,6 +4466,16 @@ cite {
   width: 960px;
   max-width: 90%;
   margin: 7rem auto 7rem;
+
+  min-height: 700px;
+  position: relative;
+  background-image: url(../img/bg_contact.jpg);
+  background-size: cover;
+  /*background-position: center;*/
+  background-repeat: no-repeat;
+  overflow: auto;
+
+    background-position: 50% 50%;
 }
 
 #tags h1 {
